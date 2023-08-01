@@ -1,10 +1,14 @@
-# Project Description
+# Adversarial Neural Network Examples
 
-This work is one of a series of three distinct repositories that collectively constitute the coursework focused on Neural Networks for the Μ124 - Machine Learning course at the National and Kapodistrian University of Athens (NKUA) during the Fall 2022 semester. The other two repos deal with [Activation functions & gradient analysis](https://github.com/KyriakosPsa/ActFunc-GradientAnalysis) and [Emotion-recognition using a Convolutional Neural Network (CNN)](https://github.com/mdarm/machine-learning-coursework).
+This work is one of a series of three distinct repositories that collectively constitute the coursework focused on Neural Networks for the Data Science & Information Technologies masters course: Μ124 - Machine Learning at the National and Kapodistrian University of Athens (NKUA) during the Fall 2022 semester. The two other repositories deal with:
+- [Activation functions & gradient analysis](https://github.com/KyriakosPsa/ActFunc-GradientAnalysis)
+- [Facial Expression Recognition (FER)](https://github.com/mdarm/machine-learning-coursework)
 
-This Jupyter notebook contains code to solve different tasks related to building, training and creating adversarial examples for classification models on the MNIST and CIFAR10 datasets.
+This specific repository contains code to solve different tasks related to building, training and creating adversarial examples for classification models on the MNIST and CIFAR10 datasets.
 
-Specifically:
+# Overview
+
+The following were done
 
 - Two Convolutional Neural Network (CNN) models to classify iamges in the MNIST and CIFAR10 datasets with test accuracy of $0.99\%$ and $0.80\%$ respectively.
 
