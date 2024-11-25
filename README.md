@@ -20,7 +20,7 @@ The following were done
 
 --- 
 # Results 
-The CNN classifiers performed adequately on both datasets: MNIST (left), CIFAR(10) right:
+The CNN classifiers performed adequately on both datasets: MNIST (top), CIFAR (bottom):
 
 ![image](https://github.com/user-attachments/assets/5571f19a-6cab-44c0-8e3a-534ed5c89862)![image](https://github.com/user-attachments/assets/c499c99c-f1de-472c-8d32-3b9d6257a5be)
 
